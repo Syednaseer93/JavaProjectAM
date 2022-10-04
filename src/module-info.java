@@ -1,0 +1,3 @@
+module javaProjectAM {
+	exports javaProjectAM;
+}
